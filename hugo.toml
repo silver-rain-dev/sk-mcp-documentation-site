@@ -28,7 +28,7 @@ theme = "hextra"
   [[menu.main]]
     identifier = "github"
     name = "GitHub"
-    url = "https://github.com/silver-rain-dev"
+    url = "https://github.com/silver-rain-dev/sk-wwise-mcp/"
     weight = 99
     [menu.main.params]
       icon = "github"
