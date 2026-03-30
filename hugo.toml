@@ -1,0 +1,50 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "SK MCP Documentation"
+theme = "hextra"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.highlight]
+  noClasses = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "mcps"
+    name = "MCPs"
+    pageRef = "/mcps"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "personal_site"
+    name = "Personal Site"
+    url = "https://skylarchen.dev/"
+    weight = 5
+    [menu.main.params]
+      icon = "globe"
+
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/silver-rain-dev"
+    weight = 99
+    [menu.main.params]
+      icon = "github"
+
+[params]
+  description = "Documentation for Silver-Rain MCP servers — AI-powered tools for game audio and beyond."
+
+  [params.navbar]
+    displayTitle = true
+    displayLogo = true
+
+    [params.navbar.logo]
+      path = "/logo.svg"
+
+  [params.footer]
+    displayPoweredBy = false
+
+  [params.page]
+    width = "wide"

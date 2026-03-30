@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /g/repos/MCP/sk-wwise-mcp/sk-wwise-mcp/mcp_* -name \"server.py\")",
+      "Bash(wc -l /g/repos/MCP/sk-wwise-mcp/sk-wwise-mcp/tests/integration/*.py)",
+      "Bash(ls -la /g/repos/MCP/sk-wwise-mcp/sk-wwise-mcp/.agents/skills/wwise-*/)",
+      "Bash(hugo version:*)",
+      "Bash(hugo new:*)",
+      "Bash(hugo)",
+      "Bash(ls -la /g/repos/sites/documentation/mcps/*.sh)",
+      "Bash(wc -l /g/repos/MCP/sk-wwise-mcp/sk-wwise-mcp/tests/**/*.py)",
+      "Bash(grep -r 'def test_' /g/repos/MCP/sk-wwise-mcp/sk-wwise-mcp/tests --include=*.py)"
+    ]
+  }
+}
