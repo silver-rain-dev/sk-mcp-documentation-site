@@ -16,5 +16,6 @@ SK Wwise MCP is a modular suite of MCP servers that lets AI agents interact with
   {{< card link="servers" title="Servers & Tools" subtitle="Explore all 12 servers and 95 tools." icon="server" >}}
   {{< card link="roles" title="Roles & Access" subtitle="Role-based server configurations for your team." icon="users" >}}
   {{< card link="workflows" title="Common Workflows" subtitle="Step-by-step guides for typical tasks." icon="book-open" >}}
+  {{< card link="demos" title="Demos" subtitle="Video walkthroughs of SK Wwise MCP in action." icon="play" >}}
 
 {{< /cards >}}

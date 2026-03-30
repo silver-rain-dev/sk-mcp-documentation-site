@@ -1,8 +1,10 @@
 ---
-title: SK MCP Documentation
+title: Welcome!
 toc: false
 ---
 
+
+## Getting Started
 {{< cards >}}
 
   {{< card
@@ -20,6 +22,8 @@ The [**Model Context Protocol**](https://modelcontextprotocol.io/docs/getting-st
 
 **No coding required.** You describe what you want in plain language, and the AI agent uses the appropriate MCP tools to get it done.
 
-## Getting Started
+##  Demo
+{{< youtube TaqMtozf9DQ >}}
+{{< youtube Krq-V-QMLOA >}}
 
-Pick an MCP from the list above to view its documentation, installation guide, and available tools.
+
