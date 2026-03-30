@@ -42,6 +42,7 @@ theme = "hextra"
 
     [params.navbar.logo]
       path = "/logo.svg"
+      dark = "/logo-dark.svg"
 
   [params.footer]
     displayPoweredBy = false
