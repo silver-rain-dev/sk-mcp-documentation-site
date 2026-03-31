@@ -8,7 +8,7 @@ toc: false
 {{< cards >}}
 
   {{< card
-    link="/mcps/sk-wwise-mcp"
+    link="mcps/sk-wwise-mcp"
     title="SK Wwise MCP"
     subtitle="AI-powered Wwise authoring — browse, edit, import, profile, and build Wwise projects through 95 tools across 12 servers."
     image="imgs/SK_Wwise_MCP_Card.png"
